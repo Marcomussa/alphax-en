@@ -388,8 +388,8 @@ body.page-template .pr__hero__wrap {
   body.page-template .pr__hero__wrap > * {
     position: relative;
     z-index: 99; }
-  body.page-template .pr__hero__wrap .pr__header .inner .logo .brand {
-    background-position-y: -28px; }
+  /*body.page-template .pr__hero__wrap .pr__header .inner .logo .brand {
+    background-position-y: -28px; }*/
   body.page-template .pr__hero__wrap .pr__header .inner a,
   body.page-template .pr__hero__wrap .pr__header .inner .lang {
     color: #FFFFFF !important; }
@@ -2034,8 +2034,8 @@ a.uk-slidenav {
     
         /*.pr__header.pr__dark .inner .logo .brand {
       background-position-y: -32px; }*/
-  body.page-template .pr__hero__wrap .pr__header .inner .logo .brand {
-    background-position-y: -32px; }
+  /*body.page-template .pr__hero__wrap .pr__header .inner .logo .brand {
+    background-position-y: -32px; }*/
   /* Section: Global */
   .pr__section .section-heading .inner {
     -webkit-box-orient: horizontal;
